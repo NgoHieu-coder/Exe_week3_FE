@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../Progress-web-sale"
+		},
+		{
+			"path": "../../../../Majoy 1/MAE-101/Code_MAE"
+		},
+		{
+			"path": "../prj-final-fe1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exe_week3"
+	}
+}
